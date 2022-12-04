@@ -5,4 +5,4 @@ Some facts about me:
 - 🎓 studying for my master’s program "Digital Modeling of Buildings and Structures";
 - 💼 Engineer and lecturer at SPBPU;
 - 🐍 Learning Python;
-- 🧠 In love with ML and Data sсience.
+- 🧠 In love with ML, Computer Vision, Image Processing and Data sсience.
